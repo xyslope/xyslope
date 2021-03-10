@@ -1,6 +1,8 @@
 ### Hi there 👋
 こんにちは
 
+日本語のサイトです。
+
 <!--
 **xyslope/xyslope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
